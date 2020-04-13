@@ -1,7 +1,7 @@
 # [Froala Pages V1](https://www.froala.com/pages)
 The next generation JavaScript Page Builder made by devs for devs. A plug and play web page design and editing JavaScript tool for your web application and loved by designers.
 
-![WYSIWYG Froala Pages](https://cdn0.froala.com/assets/design/pages/B/blocks-772f8bf7b5341845324b877006f65217.png)
+![WYSIWYG Froala Pages](https://froala.com/wp-content/uploads/2019/10/blocks-1024x517.png)
 
 ### Demos
 - Basic Demo: https://www.froala.com/pages/demo
